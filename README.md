@@ -1,5 +1,6 @@
 Sistemas de Banco de Dados em MySQL
-📌 Sobre o Projeto
+
+Sobre o Projeto
 
 Este projeto reúne múltiplos sistemas de banco de dados desenvolvidos em MySQL, com foco em modelagem relacional, manipulação de dados e análise utilizando SQL.
 
@@ -15,15 +16,18 @@ locadora.sql → Sistema de locação de veículos
 hotel.sql → Sistema de reservas de hotel
 loja.sql → Sistema de vendas
 sistema_pedidos.sql → Sistema completo com operações avançadas
-🧩 Sistemas Implementados
-🏥 Clínica Médica
+
+Sistemas Implementados
+
+Clínica Médica
 
 Gerencia:
 
 Pacientes
 Médicos
 Consultas
-🚗 Locadora de Veículos
+
+ Locadora de Veículos
 
 Gerencia:
 
@@ -44,7 +48,8 @@ Gerencia:
 Produtos
 Vendedores
 Vendas
-🛒 Sistema de Pedidos
+
+Sistema de Pedidos
 
 Gerencia:
 
@@ -54,23 +59,24 @@ Pedidos
 
 Inclui operações completas de manipulação e análise de dados.
 
-🔧 Funcionalidades Implementadas
-➕ Inserção de Dados (INSERT)
+ Funcionalidades Implementadas
+ Inserção de Dados (INSERT)
 Cadastro de clientes, produtos, pedidos e outros registros
 
-📖 Consulta de Dados (SELECT)
+ Consulta de Dados (SELECT)
 Listagem de tabelas
 Filtros por condições
 
-✏️ Atualização (UPDATE)
+ Atualização (UPDATE)
 Alteração de dados existentes
 
-❌ Exclusão (DELETE)
+ Exclusão (DELETE)
 Remoção de registros com base em condições
 
-📊 Análise de Dados (GROUP BY)
+ Análise de Dados (GROUP BY)
 Contagem de registros por categoria
 Soma de valores agrupados
+
 🔗 Relacionamentos
 
 Todos os sistemas utilizam:
@@ -86,7 +92,8 @@ Reservas → hóspedes + quartos
 Vendas → produtos + vendedores
 Pedidos → clientes + produtos
 
-🚀 Como Executar
+Como Executar
+
 Abra o MySQL Workbench ou phpMyAdmin
 Importe qualquer um dos arquivos .sql
 Execute o script
